@@ -231,7 +231,7 @@ export default function Home() {
        {/* Hero Section */}
        <div className="text-center py-20 mb-16">
          <h1 className="text-6xl md:text-7xl font-bold text-white mb-8 leading-tight">
-           Invent what's next.
+           Invent what&apos;s next.
          </h1>
          <p className="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
           Ready to build, innovate, and compete?
