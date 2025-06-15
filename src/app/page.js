@@ -237,7 +237,7 @@ export default function Home() {
           Ready to build, innovate, and compete?
          </p>
          <p className="text-xl text-gray-300 mb-12 max-w-3xl mx-auto leading-relaxed">
-           Welcome to your one-stop platform for booking hackathon and tech event tickets! Whether you're a code wizard, design ninja, or startup hustler—register here, reserve your spot, and be part of the next big thing.
+           Welcome to your one-stop platform for booking hackathon and tech event tickets! Whether you&apos;re a code wizard, design ninja, or startup hustler—register here, reserve your spot, and be part of the next big thing.
          </p>
        </div>
 
