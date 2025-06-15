@@ -231,10 +231,13 @@ export default function Home() {
        {/* Hero Section */}
        <div className="text-center py-20 mb-16">
          <h1 className="text-6xl md:text-7xl font-bold text-white mb-8 leading-tight">
-           Master your event flow
+           Invent what’s next.
          </h1>
+         <p className="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
+          Ready to build, innovate, and compete?
+         </p>
          <p className="text-xl text-gray-300 mb-12 max-w-3xl mx-auto leading-relaxed">
-           Flexible ticketing and embedded event management solutions for organizers and attendees of technology conferences.
+           Welcome to your one-stop platform for booking hackathon and tech event tickets! Whether you're a code wizard, design ninja, or startup hustler—register here, reserve your spot, and be part of the next big thing.
          </p>
        </div>
 
